@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Heritage Renewal Company]]></title>
+        <description><![CDATA[The Heritage Renewal Company]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Jan 2016 04:27:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Heritage Renewal company</p>]]></description>
+            <link>undefined57fb1418-189a-489d-9ba5-2db42d97d1c6/index.html</link>
+            <guid isPermaLink="false">57fb1418-189a-489d-9ba5-2db42d97d1c6</guid>
+            <pubDate>Sat, 16 Jan 2016 04:27:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
